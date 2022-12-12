@@ -1,0 +1,5 @@
+﻿  源.c
+E:\daima\Project5\Project5\源.c(15,3): warning C4013: “Sleep”未定义；假设外部返回 int
+E:\daima\Project5\Project5\源.c(16,3): warning C4013: “system”未定义；假设外部返回 int
+E:\daima\Project5\Project5\源.c(9,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project5.vcxproj -> E:\daima\Project5\x64\Debug\Project5.exe
